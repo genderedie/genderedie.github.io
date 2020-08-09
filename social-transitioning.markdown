@@ -28,7 +28,7 @@ permalink: /social-transitioning/
 ### Social transitioning for transgender young people and their families module - Introduction
 
 <p class="yvideo-container">
-  <iframe class="yvideo"  src="https://www.youtube.com/embed/LQIOfvJAT28" frameborder="0" allowfullscreen></iframe>
+  <iframe class="yvideo" src="https://www.youtube.com/embed/LQIOfvJAT28" frameborder="0" allowfullscreen></iframe>
 </p>
 {% endcapture %}
 {% include module.html content=module_content number=1 active=true %}
@@ -49,7 +49,7 @@ By the end of this module, you should be able to:
 ### Part 1. Changing names and pronouns
 
 <p class="yvideo-container">
-  <iframe class="yvideo"  src="https://www.youtube.com/embed/01jERePZXlQ" frameborder="0" allowfullscreen></iframe>
+  <iframe class="yvideo" src="https://www.youtube.com/embed/01jERePZXlQ" frameborder="0" allowfullscreen></iframe>
 </p>
 {% endcapture %}
 {% include module.html content=module_content number=3 %}
@@ -104,9 +104,9 @@ In this part, take some time to read stories from other families about their exp
 
 {% capture module_content %}
 ### Part 1. Summary
-  
+
 <p class="yvideo-container">
-  <iframe class="yvideo"  src="https://www.youtube.com/embed/uDP9cO9FvTA" frameborder="0" allowfullscreen></iframe>
+  <iframe class="yvideo" src="https://www.youtube.com/embed/uDP9cO9FvTA" frameborder="0" allowfullscreen></iframe>
 </p>  
 {% endcapture %}
 {% include module.html content=module_content number=3 %}
@@ -115,35 +115,35 @@ In this part, take some time to read stories from other families about their exp
 ### Part 2. Changing appearances
 
 <p class="yvideo-container">
-  <iframe class="yvideo"  src="https://www.youtube.com/embed/zRR9hz3RSSA" frameborder="0" allowfullscreen></iframe>
+  <iframe class="yvideo" src="https://www.youtube.com/embed/zRR9hz3RSSA" frameborder="0" allowfullscreen></iframe>
 </p>  
 {% endcapture %}
 {% include module.html content=module_content number=4 %}
 
 {% capture module_content %}
 <p class="yvideo-container">
-  <iframe class="yvideo"  src="https://www.youtube.com/embed/JWeigb4yjaY" frameborder="0" allowfullscreen></iframe>
+  <iframe class="yvideo" src="https://www.youtube.com/embed/JWeigb4yjaY" frameborder="0" allowfullscreen></iframe>
 </p>
 {% endcapture %}
 {% include module.html content=module_content number=4 %}
 
 {% capture module_content %}
 <p class="yvideo-container">
-  <iframe class="yvideo"  src="https://www.youtube.com/embed/I-b8QcXRUC0" frameborder="0" allowfullscreen></iframe>
+  <iframe class="yvideo" src="https://www.youtube.com/embed/I-b8QcXRUC0" frameborder="0" allowfullscreen></iframe>
 </p>
 {% endcapture %}
 {% include module.html content=module_content number=4 %}
 
 {% capture module_content %}
 <p class="yvideo-container">
-  <iframe class="yvideo"  src="https://www.youtube.com/embed/3BiOHwcjnEU" frameborder="0" allowfullscreen></iframe>
+  <iframe class="yvideo" src="https://www.youtube.com/embed/3BiOHwcjnEU" frameborder="0" allowfullscreen></iframe>
 </p>
 {% endcapture %}
 {% include module.html content=module_content number=4 %}
 
 {% capture module_content %}
 <p class="yvideo-container">
-  <iframe class="yvideo"  src="https://www.youtube.com/embed/sxfuUXAXcRE" frameborder="0" allowfullscreen></iframe>
+  <iframe class="yvideo" src="https://www.youtube.com/embed/sxfuUXAXcRE" frameborder="0" allowfullscreen></iframe>
 </p>
 {% endcapture %}
 {% include module.html content=module_content number=4 %}
@@ -152,7 +152,7 @@ In this part, take some time to read stories from other families about their exp
 ### Part 2. Summary
   
 <p class="yvideo-container">
-  <iframe class="yvideo"  src="https://www.youtube.com/embed/0I0tIAxYLR4" frameborder="0" allowfullscreen></iframe>
+  <iframe class="yvideo" src="https://www.youtube.com/embed/0I0tIAxYLR4" frameborder="0" allowfullscreen></iframe>
 </p>  
 {% endcapture %}
 {% include module.html content=module_content number=4 %}
@@ -161,7 +161,7 @@ In this part, take some time to read stories from other families about their exp
 ### Part 3. Social issues
 
 <p class="yvideo-container">
-  <iframe class="yvideo"  src="https://www.youtube.com/embed/RNtemb_jivU" frameborder="0" allowfullscreen></iframe>
+  <iframe class="yvideo" src="https://www.youtube.com/embed/RNtemb_jivU" frameborder="0" allowfullscreen></iframe>
 </p>
 {% endcapture %}
 {% include module.html content=module_content number=5 %}
@@ -169,11 +169,9 @@ In this part, take some time to read stories from other families about their exp
 {% capture module_content %}
 ### Part 4. Coming out to others
 
-  <p class="yvideo-container">
-
-<iframe class="yvideo"  src="https://www.youtube.com/embed/YN-4socicwo" frameborder="0" allowfullscreen></iframe>
-
-  </p>
+<p class="yvideo-container">
+  <iframe class="yvideo" src="https://www.youtube.com/embed/YN-4socicwo" frameborder="0" allowfullscreen></iframe>
+</p>
   
 {% endcapture %}
 {% include module.html content=module_content number=6 %}
