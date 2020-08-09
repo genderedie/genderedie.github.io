@@ -16,7 +16,7 @@ Transformers is a peer support group for trans young people whose parents attend
 * TransParenCI & TransFormers (Dublin): Contact TENI at [(01) 873 3575](tel:+353-1-873-3575), transparencigroup@gmail.com
 * TransParenCI (Limerick):Contact GOSHH on (061) 314 354 or TENI on (01) 873 3575, transparencigroup@gmail.com
 * TransParenCI & TransFormers (Waterford): Contact TENI at (01) 873 3575, transparencigroup@gmail.com
-				
+
 Tusla is the Child and Family Agency of Ireland. It offers family and child support. 
 To find a local area office near you, please visit their website: 
 
@@ -31,7 +31,7 @@ Tusla Family Resource Centres, <a target="_blank" href="http://www.tusla.ie/serv
 * Galway Area ShOUT!: Contact Anne-Marie at 087 773 8529
 * Shannon Area: Contact Regine or Adele at 061 707 600
 * Cork area: Contact Ber at 087 790 2230
-				  
+  
 ### Transgender-specific peer support groups
 
 Contact TENI (Transgender Equality Network Ireland) for the most up-to-date information: 01 873 3575, <a target="_blank" href="http://www.teni.ie">teni.ie</a>
@@ -54,84 +54,90 @@ Contact TENI (Transgender Equality Network Ireland) for the most up-to-date info
 ### Support for young people
   
 Jigsaw offers free, confidential mental health supports for people 12-25 years of age. 
-						Jigsaw, <a target="_blank" href="http://www.jigsaw.ie">jigsaw.ie</a>
+Jigsaw, <a target="_blank" href="http://www.jigsaw.ie">jigsaw.ie</a>
 
 ### Support for LGBT Young People
 
 Nationwide: BeLonG To Youth Services: 01 670 6233, info@belongto.org, <a target="_blank" href="http://www.belongto.org">belongto.org</a>. 
-<br/>
-						Carlow: My Unique Individuality: 085 272 2379 or (059) 9133714, leannecrys@yahoo.ie
-						<br/>
-						Cork: UP Cork: 021 4300 430 or 086 044 3745, unitegayyouthcork@gmail.com
-						<br/>
-						Donegal: BreakOUT: 086 124 7968 / 074 912 9630, lgbt@donegalyouhservice.ie
-						<br/>
-						Dublin: Tallaght LGBT Group (14-18 year olds): 086 3884991, jean.lowry@foroige.ie
-						<br/>
-						Dublin: LGBT Over 18s Group (a group in BeLonG To): 01 670 6223, info@belongto.org
-						<br/>
-						Dublin: The LadyBirds (LBT women ages 14-23 in BeLonG To): 01 670 6223, info@belongto.org
-						<br/>
-						Dublin: IndividualiTy (a transgender young people’s support group in BeLonG To): 01 670 6223, info@belongto.org
-						<br/>
-						Galway: ShOUT: Galway 087 773 8529, shout@youthworkgalway.ie
-						<br/>
-						Kerry: LGBT Youth Group: 066 712 1674	
-						<br/>
-						Kildare: KLGBT: 045 897 893, klgbt@kys.ie
-						<br/>
-						Kilkenny: Open Door Youth Group: (056) 7761200, pbookle@ossoryyouth.com
-						<br/>
-						Limerick: Trans Youth Group: Tel: 061314354 /Text: 087 4447368, youth@goshh.ie
-						<br/>
-						Limerick: LGBT+ Youth Group: 061 314354, youth@goshh.ie
-						<br/>
-						Louth: AIM Young Adults Group: 086 162 5030, youth@outcomers.org
-						<br/>
-						Louth: AIM Youth Group: 086 162 5030, youth@outcomers.org
-						<br/>
-						Mayo: SWAG Mayo: 086 3862094 / 087 6610650
-						<br/>
-						Sligo: SMILY LGBT: 089 4820330, smilyyouthlgbt@gmail.com
-						<br/>
-						Tipperary: OUTstanding Tipperary: 087-9100727, zoe.gogarty@trys.ie
-						<br/>
-						Waterford: ChillOUT: 051 309364 (Office) / 086 021 8941, chillout@wstcys.ie
-						<br/>
-						Wexford: LGBT Youth Support: 053 912 3262, david.clark@fdys.ie
-						<br/>
-						Wicklow: Arklow LGBT Support Group: 040 239 646
-						<br/>
-						Wicklow: Bray LGBT Youth & Friends: 085 145 8782, braylgbtyouth@gmail.com
 
+Carlow: My Unique Individuality: 085 272 2379 or (059) 9133714, leannecrys@yahoo.ie
+
+Cork: UP Cork: 021 4300 430 or 086 044 3745, unitegayyouthcork@gmail.com
+
+Donegal: BreakOUT: 086 124 7968 / 074 912 9630, lgbt@donegalyouhservice.ie
+
+Dublin: Tallaght LGBT Group (14-18 year olds): 086 3884991, jean.lowry@foroige.ie
+
+Dublin: LGBT Over 18s Group (a group in BeLonG To): 01 670 6223, info@belongto.org
+
+Dublin: The LadyBirds (LBT women ages 14-23 in BeLonG To): 01 670 6223, info@belongto.org
+
+Dublin: IndividualiTy (a transgender young people’s support group in BeLonG To): 01 670 6223, info@belongto.org
+
+Galway: ShOUT: Galway 087 773 8529, shout@youthworkgalway.ie
+
+Kerry: LGBT Youth Group: 066 712 1674
+
+Kildare: KLGBT: 045 897 893, klgbt@kys.ie
+
+Kilkenny: Open Door Youth Group: (056) 7761200, pbookle@ossoryyouth.com
+
+Limerick: Trans Youth Group: Tel: 061314354 /Text: 087 4447368, youth@goshh.ie
+
+Limerick: LGBT+ Youth Group: 061 314354, youth@goshh.ie
+
+Louth: AIM Young Adults Group: 086 162 5030, youth@outcomers.org
+
+Louth: AIM Youth Group: 086 162 5030, youth@outcomers.org
+
+Mayo: SWAG Mayo: 086 3862094 / 087 6610650
+
+Sligo: SMILY LGBT: 089 4820330, smilyyouthlgbt@gmail.com
+
+Tipperary: OUTstanding Tipperary: 087-9100727, zoe.gogarty@trys.ie
+
+Waterford: ChillOUT: 051 309364 (Office) / 086 021 8941, chillout@wstcys.ie
+
+Wexford: LGBT Youth Support: 053 912 3262, david.clark@fdys.ie
+
+Wicklow: Arklow LGBT Support Group: 040 239 646
+
+Wicklow: Bray LGBT Youth & Friends: 085 145 8782, braylgbtyouth@gmail.com
   
 ### Help-lines
 
-24-Hour Support <br/>
-						Samaritans: 1850 60 90 90 <br/>
-						LGBT Helpline: 1890 929 539
+24-Hour Support
 
+Samaritans: 1850 60 90 90
+
+LGBT Helpline: 1890 929 539
   
 ### Other Help-Lines
 
-Crime Victims Helpline: 1850 211 407<br/> 
-Drugs/HIV Help Line: 1800 459 459 <br/>
-						Drugs/HIV Help Line: 1800 459 459 <br/>
-						Aware (Depression) Helpline: 1890 303 302 <br/>
-						HSE Info Line: 1850 24 1850
+Crime Victims Helpline: 1850 211 407
 
+Drugs/HIV Help Line: 1800 459 459
+
+Drugs/HIV Help Line: 1800 459 459
+
+Aware (Depression) Helpline: 1890 303 302
+
+HSE Info Line: 1850 24 1850
   
 ### LGBT Help-Lines  
 
-LGBT Helpline: 1890 929 539, <a target="_blank" href="http://www.lgbt.ie">lgbt.ie</a><br/>
-						Gay Switchboard Dublin: (01) 872 1055, <a target="_blank" href="http://www.gayswitchboard.ie">gayswitchboard.ie</a><br/>
-						TENI Helpline (transgender support): (085) 147 7166
+LGBT Helpline: 1890 929 539, <a target="_blank" href="http://www.lgbt.ie">lgbt.ie</a>
 
+Gay Switchboard Dublin: (01) 872 1055, <a target="_blank" href="http://www.gayswitchboard.ie">gayswitchboard.ie</a>
+
+TENI Helpline (transgender support): (085) 147 7166
   
 ### Internet support
 
-<a target="_blank" href="http://www.lgbt.ie">lgbt.ie</a><br/>
-<a target="_blank" href="http://www.yourmentalhealth.ie">yourmentalhealth.ie</a><br/>
+<a target="_blank" href="http://www.lgbt.ie">lgbt.ie</a>
+
+<a target="_blank" href="http://www.yourmentalhealth.ie">yourmentalhealth.ie</a>
+
 <a target="_blank" href="http://www.lgbtmentalhealth.ie">lgbtmentalhealth.ie</a>
   
 ### Other Support Services
