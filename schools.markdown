@@ -23,10 +23,7 @@ permalink: /schools/
 {% capture module_content %}
 ### Schools and other educational settings - Introduction
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/qgc_rKX-dRQ" frameborder="0" allowfullscreen></iframe>
-</p>
- 
+{% include youtube.html youtube_code="qgc_rKX-dRQ" %} 
 {% endcapture %}
 {% include module.html content=module_content number=1 active=true %}
 
@@ -44,15 +41,11 @@ By the end of this module, you should be able to:
 ### Part 1. Early childhood education in various settings
   
 Before viewing this video, it is important you understand gender variance/non-conformity in children and social transitioning. 
-If you have not done so, please consider reviewing the <a href='/life-stage-issues'>Life stages</a> and <a href='/social-transitioning'>Social transitioning</a> modules at this time.
+If you have not done so, please consider reviewing the [Life stages]({% link life-stage-issues.markdown %}) and [Social transitioning]({% link social-transitioning.markdown %}) modules at this time.
 
-Please note this module covers issues related to early childhood education and care services, 
-including infant classes in primary schools, creches, nurseries, pre-schools, 
-Irish language preschools, playgroups, and other day care services.
+Please note this module covers issues related to early childhood education and care services, including infant classes in primary schools, creches, nurseries, pre-schools, Irish language preschools, playgroups, and other day care services.
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/kgVZm8X8nYY" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="kgVZm8X8nYY" %}
 {% endcapture %}
 {% include module.html content=module_content number=3 %}
 
@@ -67,13 +60,9 @@ It is important for family members, especially parents/guardians,
 to reassure the child and to know themselves that a child can 
 ‘change back’ or reverse any decisions they make. 
 
-All playschools are different, and many can be quite flexible and open to change. 
-While there is no single set way to manage a social transition within a playschool, 
-listed below are key things to consider. 
+All playschools are different, and many can be quite flexible and open to change. While there is no single set way to manage a social transition within a playschool, listed below are key things to consider. 
 
-Within discussion between the student, 
-parent/guardian, and school, 
-consider developing a transition plan that considers and accounts for: 
+Within discussion between the student, parent/guardian, and school, consider developing a transition plan that considers and accounts for: 
 
 1. Starting date of social transition
 2. Name, language, and pronoun: The student’s preferred name, gender identity, and pronoun (he, she, they) should be discussed and decided (if applicable).
@@ -91,9 +80,7 @@ consider developing a transition plan that considers and accounts for:
 Before viewing this video, it is important you understand social transitioning. 
 If you have not done so, please consider reviewing the <a href='/social-transitioning'>Social transitioning</a> module at this time.
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/DBBbkSv_NGE" frameborder="0" allowfullscreen></iframe>
-</p> 
+{% include youtube.html youtube_code="DBBbkSv_NGE" %}
 {% endcapture %}
 {% include module.html content=module_content number=4 %}
 
@@ -201,17 +188,16 @@ A resource for post-primary schools to prevent homophobic and transphobic bullyi
 Available from:
 <a target="_blank" href='https://www.education.ie/en/Publications/Education-Reports/Being-LGBT-in-School.pdf'>https://www.education.ie</a>
 
-PDF: ‘Essential elements of a transition plan for a school context’ 
-from Gay and Lesbian Equality Network (GLEN). (2016) ‘Being LGBT in school’: 
+PDF: ‘Essential elements of a transition plan for a school context’ from Gay and Lesbian Equality Network (GLEN). (2016) ‘Being LGBT in school’: 
 A resource for post-primary schools to prevent homophobic and transphobic bullying and support LGBT students. Dublin: Gay and Lesbian Equality Network (GLEN) and Department of Education and Skills. 
 Available from:
 <a target="_blank" href='https://www.education.ie/en/Publications/Education-Reports/Being-LGBT-in-School.pdf'>https://www.education.ie</a>
 
-<a target="_blank" href="/documents/module6/PDF - 6. ECCE guidelines.pdf">PDF - ECCE guidelines</a>.
+[PDF - ECCE guidelines]({% link /documents/module6/PDF - 6. ECCE guidelines.pdf %}).
 
-<a target="_blank" href="/documents/module6/PDF - 6. Primary schools guidelines.pdf">PDF - Primary school guidelines</a>.
+[PDF - Primary school guidelines]({% link /documents/module6/PDF - 6. Primary schools guidelines.pdf %}).
 
-<a target="_blank" href="/documents/module6/PDF - 6. Post primary schools guidelines.pdf">PDF - Post-primary school guidelines</a>.
+[PDF - Post-primary school guidelines]({% link /documents/module6/PDF - 6. Post primary schools guidelines.pdf %}).
 {% endcapture %}
 {% include module.html content=module_content number=5 %}
 

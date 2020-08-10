@@ -21,9 +21,7 @@ permalink: /life-stage-issues/
 {% capture module_content %}
 ### Gender identity issues for pre-pubescent children and adolescents - Introduction
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/iLNIvxvx7rs" frameborder="0" allowfullscreen></iframe>
-</p> 
+{% include youtube.html youtube_code="iLNIvxvx7rs" %}
 {% endcapture %}
 {% include module.html content=module_content number=1 active=true %}
 
@@ -41,9 +39,7 @@ By the end of this module, you should be able to:
 {% capture module_content %}
 ### Part 1. Gender identity and expression in pre-pubescent children
 
-<p class="yvideo-container">
-  <iframe class="yvideo"  src="https://www.youtube.com/embed/dGuZRWyYsJc" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="dGuZRWyYsJc" %}
 {% endcapture %}
 {% include module.html content=module_content number=3 %}
 
@@ -92,9 +88,7 @@ Adolescence is a potentially turmoil time for some young people.
 In the next video, we’ll hear about some of the issues that may be 
 going on in the lives of trans adolescents and how to respond to these issues.
 
-<p class="yvideo-container">
-  <iframe class="yvideo"  src="https://www.youtube.com/embed/waLhyV_ZSyQ" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="waLhyV_ZSyQ" %}
 
 Sources: 1Edwards-Leeper et al. (2016); 2Olson et al. 2016
 {% endcapture %}

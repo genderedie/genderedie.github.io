@@ -27,9 +27,7 @@ permalink: /social-transitioning/
 {% capture module_content %}
 ### Social transitioning for transgender young people and their families module - Introduction
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/LQIOfvJAT28" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="LQIOfvJAT28" %}
 {% endcapture %}
 {% include module.html content=module_content number=1 active=true %}
 
@@ -48,9 +46,7 @@ By the end of this module, you should be able to:
 {% capture module_content %}
 ### Part 1. Changing names and pronouns
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/01jERePZXlQ" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="01jERePZXlQ" %}
 {% endcapture %}
 {% include module.html content=module_content number=3 %}
 
@@ -105,74 +101,55 @@ In this part, take some time to read stories from other families about their exp
 {% capture module_content %}
 ### Part 1. Summary
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/uDP9cO9FvTA" frameborder="0" allowfullscreen></iframe>
-</p>  
+{% include youtube.html youtube_code="uDP9cO9FvTA" %}
 {% endcapture %}
 {% include module.html content=module_content number=3 %}
 
 {% capture module_content %}
 ### Part 2. Changing appearances
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/zRR9hz3RSSA" frameborder="0" allowfullscreen></iframe>
-</p>  
+{% include youtube.html youtube_code="zRR9hz3RSSA" %}
 {% endcapture %}
 {% include module.html content=module_content number=4 %}
 
 {% capture module_content %}
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/JWeigb4yjaY" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="JWeigb4yjaY" %}
 {% endcapture %}
 {% include module.html content=module_content number=4 %}
 
 {% capture module_content %}
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/I-b8QcXRUC0" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="I-b8QcXRUC0" %}
 {% endcapture %}
 {% include module.html content=module_content number=4 %}
 
 {% capture module_content %}
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/3BiOHwcjnEU" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="3BiOHwcjnEU" %}
 {% endcapture %}
 {% include module.html content=module_content number=4 %}
 
 {% capture module_content %}
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/sxfuUXAXcRE" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="sxfuUXAXcRE" %}
 {% endcapture %}
 {% include module.html content=module_content number=4 %}
 
 {% capture module_content %}
 ### Part 2. Summary
   
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/0I0tIAxYLR4" frameborder="0" allowfullscreen></iframe>
-</p>  
+{% include youtube.html youtube_code="0I0tIAxYLR4" %}
 {% endcapture %}
 {% include module.html content=module_content number=4 %}
 
 {% capture module_content %}
 ### Part 3. Social issues
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/RNtemb_jivU" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="RNtemb_jivU" %}
 {% endcapture %}
 {% include module.html content=module_content number=5 %}
 
 {% capture module_content %}
 ### Part 4. Coming out to others
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/YN-4socicwo" frameborder="0" allowfullscreen></iframe>
-</p>
-  
+{% include youtube.html youtube_code="YN-4socicwo" %}
 {% endcapture %}
 {% include module.html content=module_content number=6 %}
 

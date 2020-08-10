@@ -23,9 +23,7 @@ permalink: /gender-identity-basics/
 {% capture module_content %} 
 ### Gender Identity: The Basics - Introduction
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/OBx4WsPJSwY" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="OBx4WsPJSwY" %}
 {% endcapture %}
 {% include module.html content=module_content number=1 active=1 %}
  
@@ -45,19 +43,14 @@ By the end of this module, you should be able to:
 {% capture module_content %}
 ### Part 1A.  Gender identity introduction
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/nuN2LYr0dws" frameborder="0" allowfullscreen></iframe>
-</p>
-
+{% include youtube.html youtube_code="nuN2LYr0dws" %}
 {% endcapture %}
 {% include module.html content=module_content number=3 %}
  
 {% capture module_content %}
 ### Part 1B. Gender diversity
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/cmP16NMKgCE" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="cmP16NMKgCE" %}
   
 **We will be using the terms ‘trans’ or ‘transgender’ throughout this education programme
 as umbrella terms to represent all children and young people who identify as a sex 
@@ -70,39 +63,28 @@ gender non-binary or transgender.**
 {% capture module_content %}
 ### Part 1B. Gender diversity
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/CzDP5ycDV1E" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="CzDP5ycDV1E" %}
 {% endcapture %}
 {% include module.html content=module_content number=3 %}
  
 {% capture module_content %}
 ### Part 1C. Gender history and prevalence
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/1z5ViEJ-nO8" frameborder="0" allowfullscreen></iframe>
-</p>
-
+{% include youtube.html youtube_code="1z5ViEJ-nO8" %}
 {% endcapture %}
 {% include module.html content=module_content number=3 %}
  
 {% capture module_content %}
 ### Part 1D. Gender identity and sexual orientation
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/Xp4LnpQGEBE" frameborder="0" allowfullscreen></iframe>
-</p>
- 
+{% include youtube.html youtube_code="Xp4LnpQGEBE" %}
 {% endcapture %}
 {% include module.html content=module_content number=3 %}
  
 {% capture module_content %}
 ### Part 2. Why is the language around gender identity important?
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/wgo45b-p6y4" frameborder="0" allowfullscreen></iframe>
-</p>
- 
+{% include youtube.html youtube_code="wgo45b-p6y4" %}
 {% endcapture %}
 {% include module.html content=module_content number=4 %}
  
@@ -138,7 +120,7 @@ You can then explore the topic depending upon what they say and if they seem hap
 {% capture module_content %}
 ### Further resources related to this module
  
-<a target="_blank" href="/documents/module1/PDF - 1. Glossary of terms.pdf">Glossary of terms</a>.
+[Glossary of terms]({% link /documents/module1/PDF - 1. Glossary of terms.pdf %}).
 
 Killermann, S. (2013). The Genderbread Person, v.3.3. Available at: <a target="_blank" href='http://itspronouncedmetrosexual.com/2015/03/the-genderbread-person-v3/'>http://itspronouncedmetrosexual.com</a>
 

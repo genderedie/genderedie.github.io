@@ -26,9 +26,7 @@ permalink: /legal-and-admin/
 {% capture module_content %}
 ### Legal and administrative issues for trans children and young people
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/L4PwUywvk5M" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="L4PwUywvk5M" %}
 {% endcapture %}
 {% include module.html content=module_content number=1 active=true %}
 
@@ -47,9 +45,7 @@ By the end of this module, you should be able to:
 {% capture module_content %}
 ### Part 1. Deed Poll
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/sENVmr3cnz8" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="sENVmr3cnz8" %}
 {% endcapture %}
 {% include module.html content=module_content number=3 %}
 
@@ -134,9 +130,7 @@ In the next part, we will look at how to apply for Gender Recognition.
 {% capture module_content %} 
 ### Part 2. Gender Recognition Certificate
 
-<p class="yvideo-container">
-<iframe class="yvideo" src="https://www.youtube.com/embed/1ObUMW91Rts" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="1ObUMW91Rts" %}
 {% endcapture %}
 {% include module.html content=module_content number=4 %}
 
@@ -252,10 +246,7 @@ In the next part, we’ll review how to change identifying details on a passport
 {% capture module_content %}
 ### Part 3. Passports
   
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/xWN37nBNhkU" frameborder="0" allowfullscreen></iframe>
-</p>
-  
+{% include youtube.html youtube_code="xWN37nBNhkU" %}
 {% endcapture %}
 {% include module.html content=module_content number=5 %}
 
@@ -313,12 +304,8 @@ we’ll review other important legal protections for transgender people in Irela
 
 {% capture module_content %} 
 ### Part 4. Legal protections
-  
-  <p class="yvideo-container">
 
-<iframe class="yvideo" src="https://www.youtube.com/embed/SS7pxNT3dCg" frameborder="0" allowfullscreen></iframe>
-
-  </p>
+{% include youtube.html youtube_code="SS7pxNT3dCg" %}
 {% endcapture %}
 {% include module.html content=module_content number=6 %}
 
@@ -372,9 +359,7 @@ If so, make a plan of action for how you can undertake this task. Refer to the p
 {% capture module_content %} 
 ### Key messages summary
 
-<p class="yvideo-container">
- <iframe class="yvideo" src="https://www.youtube.com/embed/O15XsFT0hbg" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="O15XsFT0hbg" %}
 {% endcapture %}
 {% include module.html content=module_content number=7 %}
 
@@ -383,11 +368,11 @@ If so, make a plan of action for how you can undertake this task. Refer to the p
   
 #### Deed Poll Forms:
  
-[Deed Poll How To PDF](/documents/module7/PDF - 7. Deed Poll - How to.pdf).
+[Deed Poll How To PDF]({% link /documents/module7/PDF - 7. Deed Poll - How to.pdf %}).
 
-[Application to enroll a Deed Poll](/documents/module7/7. Courts.ie - Application to Enrol a Deed Poll.doc).
+[Application to enroll a Deed Poll]({% link /documents/module7/7. Courts.ie - Application to Enrol a Deed Poll.doc %}).
 
-[Template Of Adult Deed Poll](/documents/module7/7. Courts.ie - Template of Adult Deed Poll.doc).
+[Template Of Adult Deed Poll]({% link /documents/module7/7. Courts.ie - Template of Adult Deed Poll.doc %}).
 
 #### Gender Recognition Certificate forms:
  
@@ -404,7 +389,6 @@ If so, make a plan of action for how you can undertake this task. Refer to the p
 <a target="_blank" href="/documents/module7/7. GRC 16-17 - Ex parte motion 15.9.15.doc">GRC Ex parte motion</a>.
 
 <a target="_blank" href="/documents/module7/7. GRC 16-17- Affidavit of applicant 15.9.15.doc">GRC Affidavit of Applicant</a>.
-
   
 #### Passport forms:
   

@@ -25,9 +25,7 @@ permalink: /health-and-wellbeing/
 {% capture module_content %}
 ### Health and wellbeing for trans children and young people - Introduction
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/uhZIawOricw" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="uhZIawOricw" %}
 {% endcapture %}
 {% include module.html content=module_content number=1 active=true %}
 
@@ -45,9 +43,7 @@ By the end of this module, you should be able to:
 {% capture module_content %}
 ### Part 1. Mental health and wellbeing for transgender young people
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/PtKrV2bem6M" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="PtKrV2bem6M" %}
 
 Sources: <sup>1</sup>Higgins et al. (2015); <sup>2</sup>Strang et al. (2014)
 {% endcapture %}
@@ -118,9 +114,7 @@ In this part, take some time to read some tips from trans young people about how
 {% capture module_content %}
 ### Part 2. Physical health and wellbeing for transgender young people
   
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/8VrhgjgthQw" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="8VrhgjgthQw" %}
 
 Sources: 1. McNeil et al. (2013)
 

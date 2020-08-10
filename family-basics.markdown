@@ -25,9 +25,7 @@ permalink: /family-basics/
 {% capture module_content %} 
 ### Family Basics - Introduction
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/qEmI_3JvaC4" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="qEmI_3JvaC4" %}
 {% endcapture %}
 {% include module.html content=module_content number=1 active=1 %}
  
@@ -48,9 +46,7 @@ By the end of this module, you should be able to:
 {% capture module_content %}
 ### Part 1A. Learning you have a trans family member
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/ytXVnlT742I" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="ytXVnlT742I" %}
   
 Research has shown that families can experience a wide range of emotions and reactions to learning they have a transgender family member. 
 This is described as a time of transition, not just for the trans individual, but also the whole family<sup>12</sup>. 
@@ -96,9 +92,7 @@ It is important that you allow yourself to feel however you are feeling and star
 {% capture module_content %}
 ### Part 1B: Family experiences
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/ZDEjRY_3MqI" frameborder="0" allowfullscreen></iframe>
-</p>
+{% include youtube.html youtube_code="ZDEjRY_3MqI" %}
   
 <p class='sources'>
  3 Kuvlanka et al. 2014; 
@@ -229,20 +223,14 @@ could be useful for you in discussions in support groups.
 {% capture module_content %}
 ### Part 2: What can we do as a family?
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/RN7kbUpei-k" frameborder="0" allowfullscreen></iframe>
-</p>
- 
+{% include youtube.html youtube_code="RN7kbUpei-k" %}
 {% endcapture %}
 {% include module.html content=module_content number=4 %}
  
 {% capture module_content %}
 ### Part 2: To learn more
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/OQTOBgY21ps" frameborder="0" allowfullscreen></iframe>
-</p>
- 
+{% include youtube.html youtube_code="OQTOBgY21ps" %}
 {% endcapture %}
 {% include module.html content=module_content number=4 %}
  
@@ -260,9 +248,7 @@ could be useful for you in discussions in support groups.
 {% capture module_content %}
 ### Part 3: What can we do next?
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/vr3EpjXvK6g" frameborder="0" allowfullscreen></iframe> 
-</p>
+{% include youtube.html youtube_code="vr3EpjXvK6g" %}
   
 ### Steps you may consider taking next include:
 

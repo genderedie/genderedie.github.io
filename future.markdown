@@ -21,10 +21,7 @@ permalink: /future/
 {% capture module_content %} 
 ### The future and looking ahead - Introduction
 
-<p class="yvideo-container">
-  <iframe class="yvideo" src="https://www.youtube.com/embed/Zo7Wd_NpKwE" frameborder="0" allowfullscreen></iframe>
-</p>
-
+{% include youtube.html youtube_code="Zo7Wd_NpKwE" %}
 {% endcapture %}
 {% include module.html content=module_content number=1 active=true %}
 
@@ -155,7 +152,7 @@ Ask them what they think and discuss how you can help your family member accompl
 {% capture module_content %} 
 ### Further resources related to this module
 
-You may wish to review some of the additional readings listed on the [further resources](/further-resources) section of this website.
+You may wish to review some of the additional readings listed on the [further resources]({% link further-resources.markdown %}) section of this website.
 
 {% endcapture %}
 {% include module.html content=module_content number=4 %}
