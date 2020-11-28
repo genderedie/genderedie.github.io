@@ -6,7 +6,7 @@ permalink: /support-services/
 
 ### Healthcare providers
   
-For an up-to-date list of healthcare providers in your area, please visit: <a target="_blank" href="http://www.teni.ie/healthcare.aspx">teni.ie</a>
+For an up-to-date list of healthcare providers in your area, please visit: [teni.ie](https://www.teni.ie/resources/healthcare-support/)
   
 ### Parent, family, and peer support
 
